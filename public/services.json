@@ -1,0 +1,44 @@
+[
+    {
+        "service_name":"Teeth Orthodonitics",
+        "service_img":"https://i.ibb.co/SyLXWS6/006-broken-tooth.png",
+        "image_bg":"#FFECEE",
+        "service_price":"200"
+    },
+
+    {
+        "service_name":"Cosmetic Dentisty",
+        "service_img":"https://i.ibb.co/jGMFGGT/Flat.png",
+        "image_bg":"#FFFBF8",
+        "service_price":"240"
+    },
+
+    {
+        "service_name":"Teetch Cleaning",
+        "service_img":"https://i.ibb.co/PTWVfH3/Group-1.png",
+        "image_bg":"#FFECEE",
+        "service_price":"160"
+    },
+
+    {
+        "service_name":"Cavity Protection",
+        "service_img":"https://i.ibb.co/kK6tSXk/Group.png",
+        "image_bg":"#EBFAFC",
+        "service_price":"210"
+    },
+
+    {
+        "service_name":"Pediatric Dental",
+        "service_img":"https://i.ibb.co/wShVDhL/Group-34967.png",
+        "image_bg":"#FEF3F4",
+        "service_price":"270"
+    },
+
+    {
+        "service_name":"Oral Surgery",
+        "service_img":"https://i.ibb.co/qDQq1YZ/Flat-1.png",
+        "image_bg":"#FFF8E6",
+        "service_price":"300"
+    }
+
+]

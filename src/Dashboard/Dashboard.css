@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+
+.nunito_sans {
+    font-family: "Nunito Sans", sans-serif;
+    
+  }
+  
+
+
+.sidemenu a.active {
+    color: #383838; 
+    background-color: #F1F5F9;/* Set the desired color for the active route */
+}

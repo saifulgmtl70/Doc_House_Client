@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Dr. Ahmed Khan",
+    "degrees": ["MBBS FRACP FCSANZ FESC"],
+    "designation": "Consultant Cardiologist",
+    "rating": 32,
+    "address": "Suite 8/12 Napier Close",
+    "appointmentFee": "$100",
+    "timing":"Thu, Fri, 09:00 AM - 12:00 PM",
+    "image": "https://i.ibb.co/yP0P5CX/Dr-Ahmed-Khan-Photo.jpg",
+    "aboutDoctor": "Dr Ahmed Khan is an Australian-trained Interventional Cardiologist, who specialises in all aspects of interventional cardiology including SHOCKWAVE guided PCI, FFR, IVUS and OCT. His special interest is in ischaemic heart disease, Hypertension, Heart Failure and Atrial Fibrillation. His philosophy is one of constant refinement and excellence in all aspects of a patient’s cardiovascular care, including assessment and management, coronary intervention, cardiac rehabilitation, and maintaining and applying the most up-to-date knowledge of current developments and technology. Dr Khan grew up in Pakistan, Studied medicine at the University of Karachi. After graduating in 2000, he completed his residency at Aga khan University Hospital. Dr Khan completed his specialist Cardiology training in 2012, gaining him FRACP from Royal Australasian College of Physician. In 2013, he completed a fellowship in Interventional Cardiology from Canberra hospital. In 2014, Dr khan completed a second year fellowship in Interventional cardiology at the Fremantle hospital. Dr Khan is a member of several societies of cardiology, and frequently travels both locally and internationally to keep abreast of new developments and techniques in Interventional cardiology that might benefit his patients. He has a particular focus on using FFR guided PCI. Dr Khan currently works as a Consultant Interventional Cardiologist at Heart of Canberra, Deakin and Batemans Bay Medical Centre, Batemans Bay NSW.",
+    "education": [
+      {
+        "degree": "MBBS",
+        "institution": "Medical College A"
+      },
+      {
+        "degree": "MD",
+        "institution": "University B"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Cardiologist",
+        "hospital": "HeartCare Hospital",
+        "years": 8
+      },
+      {
+        "position": "Internal Medicine Specialist",
+        "hospital": "General Hospital C",
+        "years": 5
+      }
+    ],
+    "services": [
+      "Cardiac Consultation",
+      "Echocardiography",
+      "Cardiac Catheterization",
+      "Hypertension Management"
+    ],
+    "awardsCertificates": [
+      "Best Cardiologist of the Year (2019)",
+      "Fellowship in Cardiology (Board Certified)"
+    ]
+  },
+
+  {
+    "name": "Dr. Fatima Ali",
+    "degrees": ["FCPS, MBBS"],
+    "designation": "Pediatric Cardiologist.",
+    "rating": 34,
+    "address": "Stadium Road, Karachi",
+    "appointmentFee": "$120",
+    "timing":"Sat, Thu, Fri, 10:30 AM - 2:30 PM",
+    "image": "https://i.ibb.co/J71ggwb/1677249820815-e-2147483647-v-beta-t-MNZq9-VMQTMDBz1-VUu-n-Om-BDke83-Ygddm-GPFBfsokr-M4.jpg",
+    "aboutDoctor":"Dr. Fatima Ali is a renowned Pediatric Cardiologist based in Karachi. There are multiple doctors operating in Karachi but Dr. Fatima Ali has managed to gain a well-known reputation through their professional practice in the field of Pediatric Cardiologist. Pediatric Cardiologist has high amount of significance in the medical and healthcare fields. Dr. Fatima Ali has had many successful patient feedbacks and has thorough knowledge in it’s field. A Pediatric Cardiologist is expert in treating Atrial Septal Defect.",
+    "education": [
+      {
+        "degree": "MBBS",
+        "institution": "Medical College X"
+      },
+      {
+        "degree": "MS",
+        "institution": "Ortho Institute Y"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Orthopedic Surgeon",
+        "hospital": "OrthoCare Center",
+        "years": 10
+      },
+      {
+        "position": "Resident Orthopedist",
+        "hospital": "City General Hospital",
+        "years": 3
+      }
+    ],
+    "services": [
+      "Treatment Of Anomalous Pulmonary Veins",
+      "Percutaneous Coronary Intervention",
+      "Trans-Esophageal Echocardiography",
+      "Tricuspid Atresia",
+      "Cyanotic/Acyanotic Heart Diseases"
+    ],
+    "awardsCertificates": [
+      "Best Orthopedic Surgeon Award (2020)",
+      "Board Certified Orthopedic Surgeon"
+    ]
+  },
+  
+  {
+    "name": "Assist. Prof. Dr. Aziz ur Rehman",
+    "degrees": ["MBBS, FCPS(Medicines), MCPS(Medicines)"],
+    "designation": "Gastroenterologist, Surgery, General Physician",
+    "rating": 45,
+    "address": "Taj Medical Complex (TMC)",
+    "appointmentFee": "$90",
+    "timing":"Mon-Tue-Wed-Thu : 02:00 PM - 04:00 PM",
+    "image": "https://i.ibb.co/6g9cfrZ/416971592-2614355652074540-5261664106062451994-n.jpg",
+    "aboutDoctor":"Assist. Prof. Dr. Aziz ur Rehman is one of the leading gastroenterologist, internal medicine specialist and general physician in Karachi offering specialized services for obesity, fatty liver and stomach related complications. He has a high patient satisfaction rate for treating diseases like; chronic hepatitis, liver cirrhosis, pancreatitis, chronic diarrhea and constipation, hepatitis B,C and D. With over 25 years of experience in general medicine and health care treatments, Dr Aziz ur Rehman has served in different general medicine departments for years treating all kinds of health conditions. Assist. Prof. Dr. Aziz ur Rehman aims to provide the best healthcare services to people of all age groups. His exposure throughout the years of professional practice resulted in the enrichment of treatment skills across the vast field of gastro and general medicine. He provides personalised treatment plans for patients of all age groups. His expertise in advanced general medicine makes him one of the top certified Gastroenterologists in Karachi. To book an appointment with Assist. Prof. Dr. Aziz ur Rehman, click on Book an Appointment.",
+    "education": [
+      {
+        "degree": "MBBS",
+        "institution": "Medical College P"
+      },
+      {
+        "degree": "MD",
+        "institution": "Dermatology Institute Q"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Dermatologist",
+        "hospital": "SkinCare Clinic",
+        "years": 12
+      },
+      {
+        "position": "Dermatology Specialist",
+        "hospital": "Dermatology Hospital R",
+        "years": 5
+      }
+    ],
+    "services": [
+      "Cholestasis",
+      "Nausea",
+      "Strep Throat",
+      "Backache",
+      "Abdominal Pain",
+      "Chicken Pox",
+      "Common Cold",
+      "Diarrhoea"
+    ],
+    "awardsCertificates": [
+      "Outstanding Dermatologist Award (2018)",
+      "Board Certified Dermatologist"
+    ]
+  },
+
+  {
+    "name": "Dr. Rabia Sohail",
+    "degrees": ["MBBS"],
+    "designation": "Family Physician, General Physician",
+    "rating": 38,
+    "address": "1077 Block 5 Sector D2, Green Town, Lahore, Punjab, Pakistant",
+    "appointmentFee": "$110",
+    "timing":"Mon-Tue-Wed-Thu-Sat : 10:00 AM - 02:00 PM",
+    "image": "https://i.ibb.co/58NCv07/IMG20230507150338-Aadil-Shams-Ali.jpg",
+    "aboutDoctor": "Dr Rabia Sohail is one of the best PMC-accredited family physicians and general physicians in Lahore with a high patient satisfaction rate. She has done her MBBS from Avicenna Medical College. She has expertise in general medicine and family medicine with a special emphasis on the treatment of dengue, malaria, diabetes, high blood pressure, infectious diseases, monkeypox, anaemia, nutritional disorder, and pain management. She continued serving in general and family medicine departments for years treating all kinds of health conditions. Dr. Rabia Sohail aims to provide the best healthcare services to people of all age groups. Her exposure throughout the years of professional practice in both government and private health sectors resulted in the enrichment of treatment skills across the vast field of medicine. Dr Rabia provides personalised treatment plans for patients of all age groups. Her expertise in advanced family medicine makes her one of the top certified family physicians in Lahore.To book an appointment with Dr. Rabia Sohail, click on Book an Appointment..",
+    "education": [
+      {"degree": "MBBS", "institution": "Medical College M"},
+      {"degree": "MS", "institution": "Gynecology Institute N"}
+    ],
+    "experience": [
+      {"position": "OB-GYN Specialist", "hospital": "Women's Health Center", "years": 9},
+      {"position": "Resident Gynecologist", "hospital": "City Maternity Hospital", "years": 4}
+    ],
+    "services": [
+      "Nausea",
+      "Strep Throat",
+      "Backache",
+      "Abdominal Pain",
+      "Chicken Pox",
+      "Common Cold",
+      "Diarrhoea",
+      "Fever"
+    ],
+    "awardsCertificates": ["Best OB-GYN Specialist Award (2021)", "Board Certified Gynecologist"]
+  },
+
+  {
+    "name": "Dr. Aamir Rashid",
+    "degrees": ["MBBS"],
+    "designation": "Family Physician, General Physician",
+    "rating": 40,
+    "address": "311 Lane 4 Peshawar Road, Westridge, Rawalpindi, Punjab, Pakistan",
+    "appointmentFee": "$130",
+    "timing":"Sun-Mon-Tue-Wed-Thu-Fri-Sat : 10:00 AM - 01:00 PM",
+    "image": "https://i.ibb.co/Y0gGM20/Dr-amir-rashid-1.jpg",
+    "aboutDoctor": "Dr. Aamir Rashid is one of the best general physicians in Rawalpindi, with a more specialized focus on treating allergy-related diseases and disorders He specializes in family physician medicine and has a high patient satisfaction rate. Dr. Amir is best quoted by his patients for treating the following health conditions; allergies, arthritis, colds & flu, diarrhea, headache, peptic ulcer disease, pain management, diabetes, blood pressure, and asthma. He has been serving in different general and family medicine for years. Dr. Amir also has been relied upon by his patients for treating the following conditions; skin diseases, depression & stress management, infections, infant & children diseases, women's health screening, men's health screening, and home health care. While working in general medicine he focuses on the treatment and management of various health-related conditions using non-surgical approaches. His exposure throughout the years of professional practice resulted in the enrichment of treatment skills across the vast field of general medicine. He has also been performing advanced general medicine. Based on existing conditions, he provides personalized treatment plans for patients of all age groups. His expertise in advanced general medicine makes him one of the top certified general specialists in Rawalpindi. To book an appointment with Dr. Aamir Rashid, click on “Book an Appointment”.",
+    "education": [
+      {"degree": "MBBS", "institution": "Medical College Z"},
+      {"degree": "MD", "institution": "Neuroscience Institute A"}
+    ],
+    "experience": [
+      {"position": "Neurologist", "hospital": "BrainCare Center", "years": 11},
+      {"position": "Neurology Specialist", "hospital": "City Neuro Hospital", "years": 6}
+    ],
+    "services": [
+      "Nausea",
+      "Strep Throat",
+      "Backache",
+      "Abdominal Pain",
+      "Chicken Pox",
+      "Common Cold",
+      "Diarrhoea",
+      "Fever"
+    ],
+    "awardsCertificates": ["Best Neurologist Award (2022)", "Board Certified Neurologist"]
+  },
+
+  {
+    "name": "Dr. Tayyab Usmani",
+    "degrees": ["FCPS (Gastroenterology)"],
+    "designation": "Gastroenterologist • General Physician • Hepatologist • Internal Medicine Specialist",
+    "rating": 36,
+    "address": " M.A Jinnah Road Opposite Capri Cinema Central Jacob Lines, Saddar, Karachi, Sindh, Pakistan",
+    "appointmentFee": "$110",
+    "timing":"Mon-Tue-Wed-Thu-Fri-Sat : 03:00 PM - 05:00 PM",
+    "image": "https://i.ibb.co/dk5kzyr/tayyabusmani.png",
+    "aboutDoctor": "Dr. Tayyab Usmani is one of the best internal medicine specialists in Karachi with a high patient satisfaction rate. He has the following qualifications: MBBS, MCPS, FCPS, FCPS His expert specialisation in internal medicine involves diagnosis, and treatment of medical problems in adults via medicine. Dr. Tayyab Usmani also provides care to patients with medical problems. Dr. Tayyab Usmani has been associated with renowned hospitals. He continued serving in the internal medicine department for years treating all kinds of medical problems, including common, complex, and rare. While working in internal medicine he focuses on treatments of internal organ problems using a medicinal approach. His exposure throughout the years of professional practice resulted in the enrichment of treatment skills across the vast field of internal medicine. He has also been practicing advanced internal medicine techniques. Based on existing conditions, he provides customized treatment plans for patients of all adult groups. His expertise in advanced internal medicine makes him one of the top certified internal medicine specialists in Karachi.To book an appointment with Dr. Tayyab Usmani, click on Book an Appointment.",
+    "education": [
+      {"degree": "MBBS", "institution": "Medical College D"},
+      {"degree": "MS", "institution": "Ophthalmology Institute E"}
+    ],
+    "experience": [
+      {"position": "Ophthalmologist", "clinic": "EyeCare Clinic", "years": 9},
+      {"position": "Eye Surgery Specialist", "hospital": "City Eye Hospital F", "years": 5}
+    ],
+    "services": [
+      "Heartburn",
+      "Blisters",
+      "Irritable Bowel Syndrome",
+      "Tension Headaches",
+      "Respiratory Disorders",
+      "High Cholesterol Diseases",
+      "Lactose Intolerance",
+      "Seafood Allergy",
+      "Obesity (Overweight)",
+      "Bruise",
+      "Gastrointestinal Bleeding",
+      "Tuberculosis (TB)"
+    ],
+    "awardsCertificates": ["Best Ophthalmologist Award (2021)", "Board Certified Eye Surgeon"]
+  },
+
+  {
+    "name": "Dr. Noureen Haider",
+    "degrees": ["MBBS MCPS (Family Medicine)"],
+    "designation": "General Physician • Gastroenterologist",
+    "rating": 39,
+    "address": " Basement No 13 And 14 Arcade Markaz Road, G 8, Islamabad, Islamabad Capital, Pakistan",
+    "appointmentFee": "$120",
+    "timing":"Mon-Tue-Wed-Thu-Fri-Sat : 03:00 PM - 05:00 PM",
+    "image": "https://i.ibb.co/Q9c0grt/AD61-BD78-3-D4-B-469-E-A2-A6-F49-A1-CC872-A5-Mursaleen-Liaqat.jpg",
+    "aboutDoctor": "Dr. Noureen Haider is one of the best gastroenterologists in Islamabad with a high patient satisfaction rate. She has the following qualifications: MBBS, MCPS Her expertise in gastroenterology involves diagnosis, prevention, and treatment of diseases and disorders associated with the digestive system, including the gastrointestinal tract (stomach, large intestine, rectum, anus, etc.), bile ducts, pancreas, gallbladder, liver, etc. She continued serving in different gastroenterology departments for years treating all kinds of digestive system conditions, such as indigestion, colitis, gastroesophageal reflux, gallbladder, etc. While working in gastroenterology, she focuses on the treatment and management of various digestive system conditions using both medical and surgical approaches. Her exposure throughout the years of professional practice resulted in the enrichment of treatment skills across the vast field of gastroenterology. She has also been performing advanced gastroenterology procedures. Based on existing conditions, she provides personalised treatment plans for patients of all age groups. Her expertise in advanced gastroenterology makes her one of the top certified gastroenterologists in Islamabad. To book an appointment with Dr. Noureen Haider, click on Book an Appointment.",
+    "education": [
+      {"degree": "MBBS", "institution": "Medical College G"},
+      {"degree": "MD", "institution": "Gastro Institute H"}
+    ],
+    "experience": [
+      {"position": "Gastroenterologist", "hospital": "GastroCare Center", "years": 10},
+      {"position": "Digestive Health Specialist", "hospital": "City Gastro Hospital I", "years": 5}
+    ],
+    "services": [
+      "Pneumonia in Children",
+      "Hepatitis A",
+      "Enteric Fever",
+      "Helicobacter Pylori Infection",
+      "Gastric Cancer",
+      "Crohn's Disease",
+      "GERD (Gastroesophage",
+      "Gastrointestinal Bleeding"
+    ],
+    "awardsCertificates": ["Best Gastroenterologist Award (2021)", "Board Certified Gastroenterologist"]
+  },
+
+  {
+    "name": "Dr. Dania Amir",
+    "degrees": ["MBBS, MRCP (UK)"],
+    "designation": "Internal Medicine Specialist • Family Physician • General Physician",
+    "rating": 37,
+    "address": "Street-1 Shahrah E Firdousi Block 3, Clifton, Karachi, Sindh, Pakistan",
+    "appointmentFee": "$110",
+    "timing":"Mon-Tue-Wed-Thu-Sat : 10:00 AM - 02:00 PM",
+    "image": "https://i.ibb.co/N2JNv8d/Dr-Dania-Amir.jpg",
+    "aboutDoctor": "Dr. Dania Amir is one of the best General Physician in Karachi with a high patient satisfaction rate. She has the following qualifications: MBBS, MRCP She has expertise in general medicine and non-surgical health care treatments and services. She continued serving in different general medicine departments for years treating all kinds of health conditions. Dr. Dania Amir aims to provide the best healthcare services to people of all age groups. While working in general medicine she focuses on the treatment and management of various health-related conditions using non-surgical approaches and refers patients to other specialists. Her exposure throughout the years of professional practice resulted in the enrichment of treatment skills across the vast field of general medicine. She provides personalised treatment plans for patients of all age groups. Her expertise in advanced general medicine makes her one of the top certified General Physician in Karachi. To book an appointment with Dr. Dania Amir, click on Book an Appointment.",
+    "education": [
+      {"degree": "MBBS", "institution": "Medical College J"},
+      {"degree": "MS", "institution": "ENT Institute K"}
+    ],
+    "experience": [
+      {"position": "ENT Specialist", "clinic": "ENT Care Clinic", "years": 9},
+      {"position": "Ear Nose Throat Surgeon", "hospital": "City ENT Hospital L", "years": 6}
+    ],
+    "services": [
+      "Abdominal Pain",
+      "Strep Throat",
+      "Gas (Flatulence)",
+      "Pneumonia in Children",
+      "Scarlet Fever (Scarlatina)",
+      "Bursitis (Bursa)",
+      "Small Pox",
+      "Restless Legs Syndrome (RLS)"
+    ],
+    "awardsCertificates": ["Best ENT Specialist Award (2021)", "Board Certified ENT Surgeon"]
+  },
+  
+  {
+    "name": "Dr. Faisal Amin Baig",
+    "degrees": ["MBBS, FCPS"],
+    "designation": "Internal Medicine Specialist • General Physician",
+    "rating": 42,
+    "address": " 152 G 1 Canal Bank Road, Johar Town, Lahore, Punjab, Pakistan",
+    "appointmentFee": "$130",
+    "timing":"Mon-Tue-Wed-Thu-Fri : 05:00 PM - 08:00 PM",
+    "image": "https://i.ibb.co/v3bPc4d/Dr-Faisal-Amin-Baig.png",
+    "aboutDoctor": "Dr. Faisal Amin Baig is one of the best General Physician in Lahore with a high patient satisfaction rate. He has the following qualifications: MBBS, FCPS He has expertise in general medicine and non-surgical health care treatments and services. He continued serving in different general medicine departments for years treating all kinds of health conditions. Dr. Faisal Amin Baig aims to provide the best healthcare services to people of all age groups. While working in general medicine he focuses on the treatment and management of various health-related conditions using non-surgical approaches and refers patients to other specialists. His exposure throughout the years of professional practice resulted in the enrichment of treatment skills across the vast field of general medicine. He provides personalised treatment plans for patients of all age groups. His expertise in advanced general medicine makes him one of the top certified General Physician in Lahore. To book an appointment with Dr. Faisal Amin Baig, click on Book an Appointment.",
+    "education": [
+      {"degree": "MBBS", "institution": "Medical College M"},
+      {"degree": "MD", "institution": "Psychiatry Institute N"}
+    ],
+    "experience": [
+      {"position": "Psychiatrist", "clinic": "MindCare Clinic", "years": 11},
+      {"position": "Mental Health Specialist", "hospital": "City Psychiatric Hospital O", "years": 7}
+    ],
+    "services": [
+      "Abdominal Pain",
+      "Strep Throat",
+      "Gas (Flatulence)",
+      "Pneumonia in Children",
+      "Scarlet Fever (Scarlatina)",
+      "Bursitis (Bursa)",
+      "Small Pox",
+      "Restless Legs Syndrome (RLS)"
+    ],
+    "awardsCertificates": ["Best Psychiatrist Award (2021)", "Board Certified Psychiatrist"]
+  }
+  
+
+]
